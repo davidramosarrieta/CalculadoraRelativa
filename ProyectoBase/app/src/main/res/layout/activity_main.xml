@@ -78,6 +78,7 @@
         android:layout_width="95dp"
         android:layout_height="match_parent"
         android:layout_toRightOf="@+id/relative2"
+        android:layout_toEndOf="@+id/relative2"
         android:layout_below="@+id/editText">
 
         <Button
@@ -134,6 +135,7 @@
         android:layout_width="95dp"
         android:layout_height="match_parent"
         android:layout_toRightOf="@+id/relative3"
+        android:layout_toEndOf="@+id/relative3"
         android:layout_below="@+id/editText">
 
         <Button
@@ -189,6 +191,7 @@
         android:layout_width="100dp"
         android:layout_height="match_parent"
         android:layout_toRightOf="@+id/relative4"
+        android:layout_toEndOf="@+id/relative4"
         android:layout_below="@+id/editText">
 
         <Button
